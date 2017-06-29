@@ -13,6 +13,12 @@
 !/log/.keep
 !/tmp/.keep
 
+# Databse file
+config/database.yml
+
+# Spree default assets
+public/spree/
+
 /node_modules
 /yarn-error.log
 
